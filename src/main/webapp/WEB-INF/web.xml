@@ -52,7 +52,7 @@
 <!--css 외부 파일 적용 안되서 추가함-->
 	<servlet-mapping>
 		<servlet-name>default</servlet-name>
-		<url-pattern>/css/*</url-pattern>
+		<url-pattern>/resources/*</url-pattern>
 	</servlet-mapping>
 
 </web-app>
